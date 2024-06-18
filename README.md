@@ -20,9 +20,9 @@ class AboutMe:
 	@staticmethod
 	def specs() -> tuple:
 		langs = {
-			'expert':   ['Java',"C#"],
+			'expert':   ["C#"],
 			'intermediate': ['python', 'js'],
-			'learning': ['Django', 'Vue', 'Flask', 'AI/ML','Android']
+			'learning': ['Django', 'Vue','Android']
 		}
 		specialities  = ['fullstack']
 		environnement = ['vscode','Android Studio','Visual Studio']
