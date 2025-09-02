@@ -11,7 +11,7 @@ class AboutMe:
 	
 	@staticmethod
 	def about() -> tuple:
-		langs         = ['Nepalese', 'English', 'Hindi']
+		langs         = ['Nepalese', 'English', 'Hindi',Japanese]
 		nationality = ['Nepali']
 		age           = 22
 		
